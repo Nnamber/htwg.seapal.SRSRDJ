@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<link rel="stylesheet" type="text/css" href="css_ori/style.css">
-	<link rel="stylesheet" href="css_ori/5grid/core.css" />
+	<link rel="stylesheet" type="text/css" href="../css_ori/style.css">
+	<link rel="stylesheet" href="../css_ori/5grid/core.css" />
 </head>
 <body>
 		<div id="footer-wrapper">

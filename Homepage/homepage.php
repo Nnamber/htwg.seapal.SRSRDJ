@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title>SeaPal</title>
-	<link rel="stylesheet" type="text/css" href="css_ori/style.css">
-	<link rel="stylesheet" href="css_ori/5grid/core.css" />
+	<link rel="stylesheet" type="text/css" href="../css_ori/style.css">
+	<link rel="stylesheet" href="../css_ori/5grid/core.css" />
 </head>
 <body>
 <!--------------------------------------------------------- HEADER ------------------------------------------------------------------------>
@@ -25,10 +25,10 @@
 		<div class="hit_counter">
 			<p>Aufrufe :
 				<?php
-				$hit_count = file_get_contents("Files/hit_counter.txt");
+				$hit_count = file_get_contents("../Files/hit_counter.txt");
 				echo $hit_count;
 				$hit_count++;
-				file_put_contents("Files/hit_counter.txt", $hit_count);
+				file_put_contents("../Files/hit_counter.txt", $hit_count);
 				?> 
 			</p>
 		</div>

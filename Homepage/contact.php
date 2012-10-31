@@ -2,8 +2,8 @@
 <html>
 <head>
 	<title>SeaPal</title>
-	<link rel="stylesheet" type="text/css" href="css_ori/style.css">
-	<link rel="stylesheet" href="css_ori/5grid/core.css" />
+	<link rel="stylesheet" type="text/css" href="../css_ori/style.css">
+	<link rel="stylesheet" href="../css_ori/5grid/core.css" />
 </head>
 <body>
 <!--------------------------------------------------------- HEADER ------------------------------------------------------------------------>
@@ -29,7 +29,7 @@
 			<h2>IBN</h2>
 			<p>
 						 IBN Redaktion <br>
-						 Hans-Dieter Möhlhenrich<br>
+						 Hans-Dieter Mï¿½hlhenrich<br>
 						 Malvine-Schiesser-Weg 3<br>
 						 78315 Radolfzell<br>
 						 Germany<br>
